@@ -1,0 +1,4 @@
+#Sat Aug 08 16:53:51 EET 2020
+base.0=/Users/sulenursari/Desktop/reactNativeProject/imdb/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

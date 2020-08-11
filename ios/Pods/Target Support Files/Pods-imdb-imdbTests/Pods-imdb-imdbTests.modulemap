@@ -1,0 +1,6 @@
+module Pods_imdb_imdbTests {
+  umbrella header "Pods-imdb-imdbTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
